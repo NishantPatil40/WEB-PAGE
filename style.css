@@ -1,0 +1,35 @@
+*{
+    color:blue
+}
+h1{
+    color:#ff0000;
+    text-align:center;
+    text-decoration:underline ;
+    font-weight: lighter;
+}
+p{
+    color:rgb(173, 38, 94);
+    text-align:center;
+    font-family:arial;
+    font-size:20px;
+    line-height:30px;
+    text-transform:uppercase;
+}
+button{
+    color:white;
+    background-color:blue;
+    text-align: center;
+}
+body{
+    background-color: #a0a095;
+}
+#headingOne{
+    color:black;
+
+}
+#headingTwo{
+    color:black;
+}
+#headingThree{
+    color:red;
+}

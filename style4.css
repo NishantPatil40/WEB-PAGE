@@ -1,0 +1,9 @@
+div{
+    height:500px;
+    width:500px;
+    background-image: url(cody-scott-milewski-aCnkRlBD0i4-unsplash.jpg);
+    background-size:cover;
+    color:white;
+    position:fixed;
+    right:0px;
+}

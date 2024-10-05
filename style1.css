@@ -1,0 +1,13 @@
+#box{
+    background-color:lightblue;
+    color:white; 
+}
+.heading{
+    color:blueviolet;
+    text-align:center;
+    text-transform:capitalize;
+
+}
+button{
+    background-color:lightgreen;
+}
